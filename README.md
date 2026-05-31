@@ -126,7 +126,5 @@ jupyter
 ## Author
 Protyay Saha
 
-GitHub: rivu-intel45
-LinkedIn: Protyay Saha
-pip install -r requirements.txt
-```
+- GitHub: rivu-intel45
+- LinkedIn: Protyay Saha
